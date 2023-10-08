@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "main.py",
+            "name": "main local",
             "type": "python",
             "request": "launch",
-            "program": "main.py",
+            "program": "main_local.py",
             "console": "integratedTerminal",
             "justMyCode": true
         }

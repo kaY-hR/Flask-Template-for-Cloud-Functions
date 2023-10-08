@@ -2021,3 +2021,4 @@ env/Scripts/python.exe
 env/Scripts/pythonw.exe
 function_source/__pycache__/__init__.cpython-310.pyc
 function_source/__pycache__/server.cpython-310.pyc
+function_source/__pycache__/main.cpython-310.pyc
