@@ -2019,3 +2019,4 @@ env/Scripts/pip3.10.exe
 env/Scripts/pip3.exe
 env/Scripts/python.exe
 env/Scripts/pythonw.exe
+function_source/__pycache__/__init__.cpython-310.pyc
