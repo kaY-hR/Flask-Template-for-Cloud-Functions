@@ -1,2 +1,3 @@
-# LC-Method-Dev-Game
-Achieve separations with unknown samples, mobile phases, and columns in minimal time!
+# Flask Template for Cloud Functions
+
+This is one of the simplest template of Flask for Google Cloud Functions.
