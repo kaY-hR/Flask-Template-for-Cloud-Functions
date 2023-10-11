@@ -2268,3 +2268,4 @@ env/Scripts/functions_framework.exe
 env/Scripts/functions-framework-python.exe
 env/Scripts/functions-framework.exe
 env/Scripts/watchmedo.exe
+function_source/__pycache__/tools.cpython-310.pyc
