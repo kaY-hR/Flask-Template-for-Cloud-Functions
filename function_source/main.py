@@ -8,4 +8,4 @@ def index(requests = None):
 
 @app.route("/page1", methods=["GET", "POST"])
 def page1(requests = None):
-    return render_template("page1.html",text = "test")
+    return render_template("page1.html")
